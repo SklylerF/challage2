@@ -10,4 +10,6 @@
 
 [git hub repository](https://github.com/SklylerF/challage2/)
 
-<img alt="Finished img" src="./assets/images/challange-2-ss.png">
+<img alt="screan shot of horiseons home page" src="./assets/images/image1.png">
+<img alt="screen shot of horiseons home page" src="./assets/images/image2.png">
+<img alt="screen shot of horiseons home page" src="./assets/images/image3.png">
